@@ -1,0 +1,15 @@
+{
+  "name": "tutsplus/slack-integration",
+  "description": "A simple Slack Integration example",
+  "minimum-stability": "stable",
+  "license": "proprietary",
+  "authors": [
+    {
+      "name": "Roman",
+      "email": "kinokadru21@gmail.com"
+    }
+  ],
+  "require": {
+    "rmccue/requests": ">=1.0"
+  }
+}

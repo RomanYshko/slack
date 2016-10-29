@@ -244,7 +244,7 @@ var city = $("#shipping_city");
         $("#divregion").fadeIn("slow");
         city.attr("disabled", false);
         city.load(
-                "order_change.tpl",
+                "catalog/,model/account/order.php",
                 {zone: zone},
 
         );
